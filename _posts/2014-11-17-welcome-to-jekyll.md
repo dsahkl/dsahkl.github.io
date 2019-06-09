@@ -1,14 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-11-17 13:31:01 +0800
-categories: jekyll
-tag: jekyll
+title:  "第一篇博客!"
+date:   2019-11-17 13:31:01 +0800
+categories: document
+tag: 教程
 ---
 
 * content
 {:toc}
 
+我是正文
+我是正文
+------------------------
 
 First POST build by Jekyll.
 
@@ -26,6 +29,3 @@ First POST build by Jekyll.
 年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！
 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
